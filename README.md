@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sheldon Pais
 - 👀 I’m interested in deriving insights from data and help organizations make data driven decisions
 - 🌱 I’m currently learning Excel, PowerBI and SQL
+- 📚 You can view my work on [Portfolio](https://codebasics.io/portfolio/Sheldon-Pais)
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sheldon-pais/)
 
 <!---
